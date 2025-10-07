@@ -1,0 +1,29 @@
+﻿{
+  "Language": "es-ES",
+  "Messages": [
+    {
+      "Key": "NOT_NULL",
+      "Code": "001",
+      "Property": "{0}",
+      "Value": "El parámetro de entrada {0} no fue recibido."
+    },
+    {
+      "Key": "SERVICE_UNAVAILABLE",
+      "Code": "002",
+      "Property": "",
+      "Value": "Error en el servidor"
+    },
+    {
+      "Key": "INVALID_FORMAT",
+      "Code": "002",
+      "Property": "{0}",
+      "Value": "El parámetro de entrada {0} es invalido."
+    },
+    {
+      "Key": "USER_ALREADY_EXISTS",
+      "Code": "002",
+      "Property": "",
+      "Value": "Usuario ya existente"
+    }
+  ]
+}

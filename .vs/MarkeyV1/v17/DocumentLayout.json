@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AVALITH1\\Desktop\\ChallengeMarkey\\MarkeyV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0002EED3-CA7E-7002-25A8-F242E56AD614}|Markey.Server\\Markey.Server.csproj|c:\\users\\avalith1\\desktop\\challengemarkey\\markeyv1\\markey.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0002EED3-CA7E-7002-25A8-F242E56AD614}|Markey.Server\\Markey.Server.csproj|solutionrelative:markey.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\AVALITH1\\Desktop\\ChallengeMarkey\\MarkeyV1\\Markey.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Markey.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\AVALITH1\\Desktop\\ChallengeMarkey\\MarkeyV1\\Markey.Server\\appsettings.Development.json",
+              "RelativeToolTip": "Markey.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T00:00:28.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

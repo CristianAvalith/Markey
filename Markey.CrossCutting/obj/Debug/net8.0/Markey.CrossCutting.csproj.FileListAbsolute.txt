@@ -1,0 +1,14 @@
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\bin\Debug\net8.0\ErrorCatalog\functional-errors.json
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\bin\Debug\net8.0\Markey.CrossCutting.deps.json
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\bin\Debug\net8.0\Markey.CrossCutting.dll
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\bin\Debug\net8.0\Markey.CrossCutting.pdb
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\obj\Debug\net8.0\Markey.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\obj\Debug\net8.0\Markey.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\obj\Debug\net8.0\Markey.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\obj\Debug\net8.0\Markey.CrossCutting.AssemblyInfo.cs
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\obj\Debug\net8.0\Markey.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\obj\Debug\net8.0\Markey.CrossCutting.sourcelink.json
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\obj\Debug\net8.0\Markey.CrossCutting.dll
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\obj\Debug\net8.0\refint\Markey.CrossCutting.dll
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\obj\Debug\net8.0\Markey.CrossCutting.pdb
+C:\Users\AVALITH1\Desktop\ChallengeMarkey\MarkeyV1\Markey.CrossCutting\obj\Debug\net8.0\ref\Markey.CrossCutting.dll

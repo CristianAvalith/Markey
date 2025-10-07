@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Markey.Server</name>
+    </assembly>
+    <members>
+        <member name="P:Markey.Server.Controllers.Auth.Request.LoginRequestModel.UserName">
+            <example>admin</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.Auth.Request.LoginRequestModel.Password">
+            <example>Password_123</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.Auth.Request.RegisterRequestModel.UserName">
+            <example>Cris98n</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.Auth.Request.RegisterRequestModel.Email">
+            <example>cristian.fer.mel@gmail.com</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.Auth.Request.RegisterRequestModel.FullName">
+            <example>Cristian Fernandez</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.Auth.Request.RegisterRequestModel.OccupationId">
+            <example>28134207-94C2-4B40-808A-0A98AA0BC3E4</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.Auth.Request.RegisterRequestModel.PhoneNumber">
+            <example>1134778956</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.Auth.Request.RegisterRequestModel.Password">
+            <example>Password_123</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.User.Request.ListUserByFiltersRequestModel.FullName">
+            <example>Cristian Agente</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.User.Request.ListUserByFiltersRequestModel.PageNumber">
+            <example>1</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.User.Request.ListUserByFiltersRequestModel.PageSize">
+            <example>10</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.User.Request.UpdateUserRequestModel.FullName">
+            <example>Cristian Fernandez</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.User.Request.UpdateUserRequestModel.OccupationId">
+            <example>24c41869-6627-460e-9609-3c5095c6e6ef</example>
+        </member>
+        <member name="P:Markey.Server.Controllers.User.Request.UpdateUserRequestModel.PhoneNumber">
+            <example>1134778956</example>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Markey.Client\\Markey.Client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Markey.Server\\Markey.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
